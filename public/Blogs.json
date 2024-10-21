@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "cover": "https://i.ibb.co.com/PcFv1RP/austin-distel-Imc-Io-ZDMXc-unsplash.jpg",
+    "title": "The Rise of Digital Nomads",
+    "author": "Alice",
+    "author_img": "https://i.ibb.co.com/qCXtwrL/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg",
+    "posted_date": "2024-07-15",
+    "reading_time": 6,
+    "hashtags": ["#Travel", "#RemoteWork", "#Lifestyle"]
+  },
+  {
+    "id": 102,
+    "cover": "https://i.ibb.co.com/PcFv1RP/austin-distel-Imc-Io-ZDMXc-unsplash.jpg",
+    "title": "AI in Everyday Life",
+    "author": "Mark",
+    "author_img": "https://i.ibb.co.com/qCXtwrL/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg",
+    "posted_date": "2024-08-02",
+    "reading_time": 4,
+    "hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "id": 103,
+    "cover": "https://i.ibb.co.com/PcFv1RP/austin-distel-Imc-Io-ZDMXc-unsplash.jpg",
+    "title": "Mastering the Art of Minimalism",
+    "author": "John",
+    "author_img": "https://i.ibb.co.com/qCXtwrL/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg",
+    "posted_date": "2024-09-10",
+    "reading_time": 5,
+    "hashtags": ["#Minimalism", "#Lifestyle", "#Simplicity"]
+  },
+  {
+    "id": 104,
+    "cover": "https://i.ibb.co.com/PcFv1RP/austin-distel-Imc-Io-ZDMXc-unsplash.jpg",
+    "title": "Healthy Habits for a Productive Day",
+    "author": "Peek",
+    "author_img": "https://i.ibb.co.com/qCXtwrL/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg",
+    "posted_date": "2024-09-20",
+    "reading_time": 7,
+    "hashtags": ["#Health", "#Wellness", "#Productivity"]
+  },
+  {
+    "id": 105,
+    "cover": "https://i.ibb.co.com/PcFv1RP/austin-distel-Imc-Io-ZDMXc-unsplash.jpg",
+    "title": "The Future of Green Energy",
+    "author": "Camel",
+    "author_img": "https://i.ibb.co.com/qCXtwrL/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg",
+    "posted_date": "2024-10-05",
+    "reading_time": 8,
+    "hashtags": ["#Environment", "#GreenEnergy", "#Sustainability"]
+  }
+]
